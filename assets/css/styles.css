@@ -1,0 +1,63 @@
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align:left;
+    color: teal;
+    margin: 0px;
+  }
+
+p{
+    color:darkgray ;
+    text-align: left;
+    margin-top: 5ch;
+    font-size: 20px;
+}
+
+.nav{
+    background: teal
+    ;
+}
+
+.navbar-brand{
+    background: teal;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+.container-fluid{
+    background: teal;
+}
+.navbar{
+background: teal;
+}
+
+.nav-link{
+    color: white;
+    font-size: 20px;
+}
+
+.nav-item{
+    color: white;
+}
+
+.navbar-toggler{
+    border-color: white;
+}
+
+.navbar-toggler-icon{
+    border-color: white;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    text-align:left;
+    color: teal;
+    margin: 30px;
+}
+
+.col-md-8{
+    margin-left: 0px;
+}
